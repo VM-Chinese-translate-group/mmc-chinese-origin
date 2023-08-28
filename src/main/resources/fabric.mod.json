@@ -13,7 +13,7 @@
     "sources": "https://github.com/VM-Chinese-translate-group/mmc-chinese-origin"
   },
 
-  "license": "CC0-1.0",
+  "license": "CC BY-NC-SA 4.0",
   "icon": "assets/mmcchinese/icon.png",
 
   "environment": "*",

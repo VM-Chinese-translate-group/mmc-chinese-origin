@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "mmc_chinese",
-  "version": "${version}",
+  "version": "1.0.0",
 
   "name": "mmc_chinese",
   "description": "VM汉化组汉化MMC起源用",

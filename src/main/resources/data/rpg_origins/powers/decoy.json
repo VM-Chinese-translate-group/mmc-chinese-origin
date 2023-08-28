@@ -1,0 +1,22 @@
+{
+    "name": "诱杀者",
+    "description": "很多人都拿你当诱饵，所以你已经适应了，每当你虚弱的时候，就会跑得更快。",
+    "condition": {
+        "type": "origins:health",
+        "comparison": "<=",
+        "compare_to": 5
+    },
+    "type": "origins:stacking_status_effect",
+    "min_stacks": 1,
+    "max_stacks": 1,
+    "duration_per_stack": 10,
+    "tick_rate": 1,
+    "effect": {
+        "effect": "speed",
+        "duration": 10,
+        "amplifier": 0,
+        "is_ambient": true,
+        "show_particles": false,
+        "show_icon": false
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "酿造师",
+    "description": "你在制作药水方面经验丰富，因此速度、再生、跳跃提升和力量的持续时间会延长1.5倍。",
+    "hidden": true,
+    "type": "origins:modify_status_effect_duration",
+    "status_effect": "minecraft:strength",
+    "modifier": {
+        "operation": "multiply_base",
+        "value": 0.5
+    }
+}

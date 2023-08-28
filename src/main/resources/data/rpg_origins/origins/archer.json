@@ -1,0 +1,15 @@
+{
+    "name": "弓箭手",
+    "description": "你擅长使用弓和弩，但这是要付出代价的。",
+    "powers": [
+        "rpg_origins:marksman",
+        "rpg_origins:not_the_strongest",
+        "rpg_origins:inexperienced",
+        "rpg_origins:resourceful",
+        "rpg_origins:quiver"
+    ],
+    "icon": {
+        "item": "minecraft:bow"
+    },
+    "impact": 2
+}

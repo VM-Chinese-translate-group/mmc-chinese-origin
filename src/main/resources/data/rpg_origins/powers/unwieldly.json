@@ -1,0 +1,9 @@
+{
+    "name": "肌无力",
+    "description": "因为你只专注于魔法训练，你造成的所有物理伤害都变低了。",
+    "type": "origins:modify_damage_dealt",
+    "modifier": {
+        "operation": "multiply_base",
+        "value": -0.25
+    }
+}

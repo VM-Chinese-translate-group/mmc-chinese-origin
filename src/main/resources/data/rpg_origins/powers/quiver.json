@@ -1,0 +1,24 @@
+{
+    "name": "箭筒",
+    "description": "你总是有一个箭筒，以确保你有备用箭。你可以把任何东西放进去，但如果你死了，除了箭以外的东西都会掉落。",
+    "type": "origins:inventory",
+    "title": "Quiver",
+    "container_type": "hopper",
+    "drop_on_death": true,
+    "drop_on_death_filter": {
+        "inverted": true,
+        "type": "origins:ingredient",
+        "ingredient": [
+            {
+                "item": "minecraft:arrow"
+            },
+            {
+                "item": "minecraft:spectral_arrow"
+            },
+            {
+                "item": "minecraft:tipped_arrow"
+            }
+        ]
+    },
+    "recoverable": true
+}

@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "aammc_chinese",
+  "id": "mmc_chinese",
   "version": "${version}",
 
-  "name": "mmcchinese",
+  "name": "mmc_chinese",
   "description": "VM汉化组汉化MMC起源用",
   "authors": [
     "cat"
@@ -17,14 +17,6 @@
   "icon": "assets/mmcchinese/icon.png",
 
   "environment": "*",
-  "entrypoints": {
-    "main": [
-      "net.fabricmc.example.ExampleMod"
-    ]
-  },
-  "mixins": [
-    "modid.mixins.json"
-  ],
 
   "depends": {
     "fabricloader": ">=0.14.22",

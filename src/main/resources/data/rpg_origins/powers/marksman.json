@@ -1,0 +1,9 @@
+{
+    "name": "射击冠军",
+    "description": "你是训练有素的弓箭和弩箭专家，使用它们造成的伤害更高。",
+    "type": "origins:modify_projectile_damage",
+    "modifier": {
+        "operation": "multiply_base",
+        "value": 1.25
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "法师",
+    "description": "你是一位法师，总能从事物中创造新魔法。",
+    "powers": [
+        "rpg_origins:fastcure",
+        "rpg_origins:not_the_strongest",
+        "rpg_origins:fireball",
+        "rpg_origins:water_walk",
+        "rpg_origins:unwieldly"
+    ],
+    "icon": {
+        "item": "minecraft:enchanted_book"
+    },
+    "impact": 2
+}

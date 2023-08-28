@@ -1,0 +1,10 @@
+{
+    "name": "持久",
+    "description": "你比别人更耐打，受到的伤害总是更少。",
+    "loading_priority": 0,
+    "type": "origins:modify_damage_taken",
+    "modifier": {
+        "operation": "addition",
+        "value": -1
+    }
+}

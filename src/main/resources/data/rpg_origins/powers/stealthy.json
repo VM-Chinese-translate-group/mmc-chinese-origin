@@ -1,0 +1,9 @@
+{
+    "name": "隐身",
+    "description": "无论何时蹲下，你都不会被看到，但在隐身时和隐身后 3 秒内无法攻击。",
+    "condition": {
+        "type": "origins:sneaking"
+    },
+    "type": "origins:invisibility",
+    "render_armor": false
+}

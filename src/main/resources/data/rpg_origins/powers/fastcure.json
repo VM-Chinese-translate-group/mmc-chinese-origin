@@ -1,0 +1,10 @@
+{
+    "name": "快速解药",
+    "description": "免疫中毒、虚弱和缓慢。",
+    "type": "origins:effect_immunity",
+    "effects": [
+        "minecraft:poison",
+        "minecraft:weakness",
+        "minecraft:slowness"
+    ]
+}

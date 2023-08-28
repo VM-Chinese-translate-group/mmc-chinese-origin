@@ -1,0 +1,9 @@
+{
+    "name": "不是最聪明的",
+    "description": "你喜欢音乐，仅此而已。你总是获得较少的XP点数",
+    "type": "origins:modify_xp_gain",
+    "modifier": {
+        "operation": "multiply_base",
+        "value": -0.5
+    }
+}

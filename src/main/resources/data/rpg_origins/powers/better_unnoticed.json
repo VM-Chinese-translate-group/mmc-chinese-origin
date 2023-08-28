@@ -1,0 +1,11 @@
+{
+    "name": "不被注意更好",
+    "description": "你宁愿不被发现，你牺牲了健康来换取速度。你的最大生命值减少4。",
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "multiply_total",
+        "value": -0.2
+    },
+    "update_health": true
+}

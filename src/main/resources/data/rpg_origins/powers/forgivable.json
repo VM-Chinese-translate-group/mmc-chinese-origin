@@ -1,0 +1,6 @@
+{
+    "name": "可宽恕的",
+    "description": "掠夺者担心你与村民结盟后，无法再发动袭击。",
+    "type": "origins:effect_immunity",
+    "effect": "minecraft:bad_omen"
+}

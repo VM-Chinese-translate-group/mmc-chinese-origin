@@ -1,6 +1,6 @@
 {
     "name": "吟游诗人",
-    "description": "你是一个全能的音乐家。你可以利用音乐的优点来帮助你和你的朋友。",
+    "description": "你是一名音乐家，精通尘世间一切乐曲。你可以使用你的旋律来帮助任何人。",
     "powers": [
         "rpg_origins:horn_effects/ponder",
         "rpg_origins:horn_effects/sing",
@@ -14,7 +14,11 @@
         "rpg_origins:musical_past",
         "rpg_origins:decoy",
         "origins:more_exhaustion",
-        "rpg_origins:not_the_smartest"
+        "rpg_origins:not_the_smartest",
+        "rpg_origins:charismatic",
+        "rpg_origins:charismatic_toggle",
+        "rpg_origins:charismatic_switch_effect",
+        "rpg_origins:charismatic_hunger"
     ],
     "icon": {
         "item": "minecraft:goat_horn"

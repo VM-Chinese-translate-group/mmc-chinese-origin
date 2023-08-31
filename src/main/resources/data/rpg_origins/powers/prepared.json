@@ -1,6 +1,6 @@
 {
     "name": "准备就绪",
-    "description": "你总是有备而来，所以游戏一开始你就带着盾牌。",
+    "description": "你总是有备而来，所以旅途一开始你就带着盾牌。",
     "type": "origins:starting_equipment",
     "stack": {
         "item": "minecraft:shield",

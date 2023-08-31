@@ -1,0 +1,14 @@
+{
+    "name": "虚弱",
+    "description": "你的身体并非为强大的战斗力而生，因此在低血量的状态下生命恢复速度减慢。",
+    "condition": {
+        "type": "origins:health",
+        "comparison": "<",
+        "compare_to": 6
+    },
+    "type": "origins:modify_healing",
+    "modifier": {
+        "operation": "multiply_base",
+        "value": -0.5
+    }
+}

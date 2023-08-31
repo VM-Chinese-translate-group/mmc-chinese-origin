@@ -1,0 +1,9 @@
+{
+    "name": "纯洁",
+    "description": "你是如此纯洁，你不能忍受下界。它腐蚀了你的身体，让你无法自然恢复生命。",
+    "condition": {
+        "type": "origins:dimension",
+        "dimension": "minecraft:the_nether"
+    },
+    "type": "origins:disable_regen"
+}

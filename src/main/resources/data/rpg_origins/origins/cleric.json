@@ -3,13 +3,17 @@
     "description": "你的任务是治疗和帮助他人。很少人会看到你直接攻击别人。",
     "powers": [
         "rpg_origins:villagefriendly",
-        "rpg_origins:not_the_strongest",
+        "rpg_origins:untrained",
         "rpg_origins:brewer_jumpboost",
         "rpg_origins:brewer_speed",
         "rpg_origins:brewer_strength",
         "rpg_origins:brewer_regeneration",
         "rpg_origins:heal_pool",
-        "rpg_origins:forgivable"
+        "rpg_origins:forgivable",
+        "rpg_origins:pure",
+        "rpg_origins:pure_color",
+        "rpg_origins:pure_shake",
+        "rpg_origins:one_with_the_world"
     ],
     "icon": {
         "item": "minecraft:emerald"
